@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey! Welcome to my profile! 👋🥰
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p align="left"> 
-🌎 Olá, Meu nome é Igor Cicerelli tenho 21 anos sou natural de São Paulo - São Paulo, sou desenvolvedor junior, apaixonado por tecnologia desde criança, formado em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo.Possuo cursos de informática e conhecimentos em linguagens como Java, JavaScript, HTML, CSS, PHP, SQL Server, MySQL.
+🌎 Meu nome é Igor Cicerelli tenho 21 anos sou natural de São Paulo - São Paulo, sou desenvolvedor junior, apaixonado por tecnologia desde criança, formado em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo.Possuo cursos de informática e conhecimentos em linguagens como Java, JavaScript, HTML, CSS, PHP, SQL Server, MySQL.
   
 Pessoalmente, busco adquirir experiência profissional e pessoal, estabelecer novas parcerias e oportunidades de novas experiências com a empresa tendo a oportunidade de aplicar meus conhecimentos e buscando assim um crescimento na área de atuação.
 </p>
