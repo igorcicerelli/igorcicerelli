@@ -29,4 +29,4 @@ Pessoalmente, busco adquirir experiência profissional e pessoal, estabelecer no
 
 </p>  
 
-![Snake animation](https://github.com/rafaballerini/igorcicerelli/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/igorcicerelli/igorcicerelli/blob/output/github-contribution-grid-snake.svg)
