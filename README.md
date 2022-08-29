@@ -12,7 +12,7 @@ Pessoalmente, busco adquirir experiência profissional e pessoal, estabelecer no
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Sublime, Laravel, Git, GitHub</strong>
+  💼 Ferramentas: <strong>VSCode, Sublime, Laravel, Git, GitHub.</strong>
 </p>
 
 <p align="left">
