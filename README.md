@@ -8,7 +8,7 @@ Pessoalmente, busco adquirir experiência profissional e pessoal, estabelecer no
 </p>
 
 <p align="left">
-  ⚡ Linguagens: <strong>HTML | CSS | PHP | SQL | MySQL | JavaScript |.</strong>
+  ⚡ Linguagens: <strong>HTML | CSS | PHP | SQL | MySQL | JavaScript |</strong>
 </p>
 
 <p align="left">
